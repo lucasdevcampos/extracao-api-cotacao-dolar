@@ -1,4 +1,3 @@
-cat > .github/workflows/tests.yml << 'EOF'
 name: Tests
 
 on:
@@ -26,4 +25,3 @@ jobs:
 
       - name: Rodar testes
         run: pytest -v
-EOF
