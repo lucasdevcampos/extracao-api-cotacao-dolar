@@ -1,5 +1,7 @@
 # Extração de Cotação do Dólar (API do Banco Central)
 
+[![Tests](https://github.com/lucasdevcampos/extracao-api-cotacao-dolar/actions/workflows/tests.yml/badge.svg)]
+
 Script em Python que consulta a API pública do Banco Central (SGS 1) e exporta
 o histórico da cotação do Dólar (PTAX) em uma planilha `.xlsx`.
 
